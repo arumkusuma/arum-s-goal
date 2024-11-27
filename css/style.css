@@ -103,7 +103,7 @@ body{
     color: #111;
 }
 .pusying1 > span{
-    animation: glow 4.0s ease-in-out infinite;
+    animation: glow 5.0s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
@@ -128,6 +128,18 @@ body{
     animation-delay: 2.8s;
 }
 .pusying1 > span:nth-child(5){
+    animation-delay: 2.8s;
+}
+.pusying1 > span:nth-child(6){
+    animation-delay: 2.8s ;
+}
+.pusying1 > span:nth-child(7){
+    animation-delay: 2.8s ;
+}
+.pusying1 > span:nth-child(8){
+    animation-delay: 2.8s;
+}
+.pusying1 > span:nth-child(9){
     animation-delay: 2.8s;
 }
 
